@@ -1,4 +1,4 @@
-const BASE = "/api";
+const BASE = "https://gitgithubacademy.onrender.com/api";
 
 function authHeaders() {
   const token = localStorage.getItem("gga_token");
